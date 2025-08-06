@@ -1,6 +1,8 @@
-# engse214-665432100238
+# ENGSE214-665432100238
  Cyber Security
-# ENGSE214
+
 ชื่อ: นายพัสกร บทศรี  
 รหัสนักศึกษา: 66543210023-8  
 
+Lab 1: Cross-Site Scripting (XSS) Challenge
+https://booztot123e.github.io/engse214-665432100238
