@@ -1,0 +1,16 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "text": "comment!",
+      "date": "2025-08-06"
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "text": "Great post!",
+      "date": "2025-08-07"
+    }
+  ]
+}
